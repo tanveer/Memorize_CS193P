@@ -13,6 +13,7 @@
 		E2B2E2FC24A7CB2E00EA2728 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2B2E2FB24A7CB2E00EA2728 /* Assets.xcassets */; };
 		E2B2E2FF24A7CB2E00EA2728 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2B2E2FE24A7CB2E00EA2728 /* Preview Assets.xcassets */; };
 		E2B2E30224A7CB2E00EA2728 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2B2E30024A7CB2E00EA2728 /* LaunchScreen.storyboard */; };
+		E2B2E30A24A7D44300EA2728 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2B2E30924A7D44300EA2728 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E2B2E2FE24A7CB2E00EA2728 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E2B2E30124A7CB2E00EA2728 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E2B2E30324A7CB2E00EA2728 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2B2E30924A7D44300EA2728 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E2B2E30024A7CB2E00EA2728 /* LaunchScreen.storyboard */,
 				E2B2E30324A7CB2E00EA2728 /* Info.plist */,
 				E2B2E2FD24A7CB2E00EA2728 /* Preview Content */,
+				E2B2E30924A7D44300EA2728 /* CardView.swift */,
 			);
 			path = Memorize_CS193P;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				E2B2E2F624A7CB2E00EA2728 /* AppDelegate.swift in Sources */,
 				E2B2E2F824A7CB2E00EA2728 /* SceneDelegate.swift in Sources */,
+				E2B2E30A24A7D44300EA2728 /* CardView.swift in Sources */,
 				E2B2E2FA24A7CB2E00EA2728 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
